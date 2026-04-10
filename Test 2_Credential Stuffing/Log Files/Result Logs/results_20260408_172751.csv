@@ -1,0 +1,11 @@
+#,timestamp,username,http_status,result
+1,2026-04-08T17:27:51.293198,testuser001,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+2,2026-04-08T17:27:53.163411,testuser002,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+3,2026-04-08T17:27:54.111041,testuser003,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+4,2026-04-08T17:27:54.892725,testuser004,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+5,2026-04-08T17:27:56.331071,testuser005,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+6,2026-04-08T17:27:57.613737,fakeuser006,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+7,2026-04-08T17:27:59.610085,fakeuser007,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+8,2026-04-08T17:28:01.589454,fakeuser008,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+9,2026-04-08T17:28:02.923952,fakeuser009,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)
+10,2026-04-08T17:28:04.415204,fakeuser010,200,LOGIN_SUCCESS (NavigationMenu 200 confirmed)

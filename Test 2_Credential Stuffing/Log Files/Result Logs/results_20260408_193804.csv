@@ -1,0 +1,4 @@
+#,timestamp,username,http_status,result
+1,2026-04-08T19:38:04.442526,fakeuser1,200,UNKNOWN (HTTP 200) — final URL: https://secure.myvirtualbranch.com/brentwoodbank/signin.aspx
+2,2026-04-08T19:38:53.371014,fakeuser2,200,CAPTCHA_TRIGGERED
+2,2026-04-08T19:38:53.371014,fakeuser2,200,STOPPED_HERE: CAPTCHA_TRIGGERED

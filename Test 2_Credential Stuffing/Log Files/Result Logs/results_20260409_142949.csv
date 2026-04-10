@@ -1,0 +1,29 @@
+#,timestamp,username,http_status,result
+1,2026-04-09T14:29:49.652694,fakeuser1,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+2,2026-04-09T14:30:07.902394,fakeuser2,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+3,2026-04-09T14:30:24.904585,fakeuser3,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+4,2026-04-09T14:30:42.136749,fakeuser4,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+5,2026-04-09T14:30:59.219440,fakeuser5,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+6,2026-04-09T14:31:16.040559,fakeuser6,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+7,2026-04-09T14:31:33.984840,fakeuser7,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"

@@ -1,0 +1,35 @@
+#,timestamp,username,http_status,result
+1,2026-04-10T00:56:09.709021,fakeuser1,0,"REQUEST_ERROR: Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://secure.myvirtualbranch.com/brentwoodbank/signin.aspx
+Call log:
+  - navigating to ""https://secure.myvirtualbranch.com/brentwoodbank/signin.aspx"", waiting until ""networkidle""
+"
+2,2026-04-10T00:56:11.998688,fakeuser2,0,"REQUEST_ERROR: Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://secure.myvirtualbranch.com/brentwoodbank/signin.aspx
+Call log:
+  - navigating to ""https://secure.myvirtualbranch.com/brentwoodbank/signin.aspx"", waiting until ""networkidle""
+"
+3,2026-04-10T00:56:14.268125,fakeuser3,200,UNKNOWN (HTTP 200) — final URL: https://secure.myvirtualbranch.com/brentwoodbank/signin.aspx
+4,2026-04-10T00:56:44.059270,fakeuser4,200,UNKNOWN (HTTP 200) — final URL: https://secure.myvirtualbranch.com/brentwoodbank/signin.aspx
+5,2026-04-10T00:57:07.487531,fakeuser5,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+6,2026-04-10T00:57:25.504843,fakeuser6,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+7,2026-04-10T00:57:43.753275,fakeuser7,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+8,2026-04-10T00:58:01.345129,fakeuser8,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+9,2026-04-10T00:58:18.456341,fakeuser9,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"
+10,2026-04-10T00:58:35.595107,fakeuser10,0,"REQUEST_ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"") to be visible
+"

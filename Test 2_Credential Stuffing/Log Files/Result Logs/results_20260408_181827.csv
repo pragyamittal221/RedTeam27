@@ -1,0 +1,10 @@
+#,timestamp,username,http_status,result
+1,2026-04-08T18:18:27.843682,fakeuser1,200,INVALID_CREDENTIALS
+2,2026-04-08T18:19:01.489408,fakeuser2,0,"REQUEST_ERROR: Page.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"")
+"
+3,2026-04-08T18:19:33.265908,fakeuser3,0,"REQUEST_ERROR: Page.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""input[name='M$layout$content$PCDZ$MMCA7G7$ctl00$webInputForm$txtLoginName']"")
+"
